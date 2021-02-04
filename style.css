@@ -82,8 +82,12 @@ p {
 .img {
   padding-bottom: 100px;
 }
-
-
+.content {
+  padding: 50px;
+}
+.col-4 {
+  margin-bottom: 50px;
+}
 
  /* FOOTER SECTION */
  .connect{
